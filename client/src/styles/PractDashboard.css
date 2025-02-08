@@ -1,0 +1,11 @@
+.dashboard-layout {
+    min-height: 100vh; /* Ensure full height layout */
+}
+
+.dashboard-header {
+    padding: 0 24px; /* Add padding to header */
+    display: flex;
+    align-items: center; /* Vertically center content */
+    background: #001529;
+    color: white;
+}
